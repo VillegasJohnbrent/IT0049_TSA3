@@ -1,0 +1,9 @@
+/vendor/
+/node_modules/
+/.env
+/.env.*
+!/.env.example
+/database/*.sqlite
+/database/*.sqlite-*
+/.phpunit.cache/
+/.phpunit.result.cache
